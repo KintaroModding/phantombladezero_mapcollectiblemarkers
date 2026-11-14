@@ -1,0 +1,12 @@
+; Map Collectible Markers settings. Change a value and save; the region map takes it within 2 seconds.
+; Enable: On, or Off (the game's own map: the mod's icons go away).
+; HideUnderFog: On (no icons in areas still under fog, until you ring the bell that clears it), or Off (all icons).
+;   It takes effect the next time the map draws a region (open the map again).
+; ToggleKey: the key that hides or shows the icons on the region map (for example H, J, K, L, N, U, Y, F6 to F9),
+;   or Off (no key; the map's keys stay the game's own).
+; ControllerKey: the controller button that does the same: DPadUp, DPadDown, DPadLeft, DPadRight, L3 or R3 (a stick
+;   pressed in), or Off. On the region map that button then does only this.
+Enable=On
+HideUnderFog=On
+ToggleKey=H
+ControllerKey=DPadUp

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Map Collectible Markers",
+  "summary": "The region map shows the collectibles you have not picked up yet, with names and where they come from. Hidden under fog. A PBZModLoader mod.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["ui", "quality-of-life"],
+  "requires": ["PBZModLoader (tested with 2.1.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
