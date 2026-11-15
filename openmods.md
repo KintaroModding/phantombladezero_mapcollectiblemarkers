@@ -26,7 +26,7 @@ the save. The game's quest, bell and other icons stay as they are.
 
 ## Screenshots
 
-![Map Collectible Markers](docs/cover.png)
+![Map Collectible Markers](docs/cover.webp)
 
 ## How to install
 
